@@ -1,1 +1,1 @@
-# ML-models-from-scratch
+# ML models from scratch
